@@ -1,2 +1,1 @@
-# Login-Application
-Login and registration application.
+This project asks you to register on the app, if your password and username are too long or too short, you will not create an account. When you have created an account, it is stored in a text file (Login-Password). After registration you are offered to log in to the application, if you have entered incorrect data, the loop will loop the login indefinitely until you enter the correct data or close the application.
